@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+}
+
+
+header {
+	padding-top: 20px;
+	height: 80px;
+	background-color: darkcyan;
+	color: #fff;
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 30px;
+
+}
+
+body {
+	background-color: #ddd;
+}
+
+.foto {
+	width: 400px;
+}
+
+.contenedor {
+	border-radius: 8px;
+	background-color: #fff;
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.titulo {
+	padding: 10px;
+}
+
+.descripcion {
+	padding: 10px;
+}
+
+.articulo {
+	padding: 10px;
+}

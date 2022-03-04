@@ -29,6 +29,9 @@ body {
 	margin: 0 auto;
 	margin-top: 20px;
 }
+.contenedor:hover {
+	box-shadow: 2px 4px black;
+}
 
 .titulo {
 	padding: 10px;
